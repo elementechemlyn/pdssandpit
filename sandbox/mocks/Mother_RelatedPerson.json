@@ -5,9 +5,9 @@
     "type": "Patient",
     "identifier": {
       "system": "https://api.service.nhs.uk/personal-demographics/FHIR/R4/Patient",
-      "value": "5815309540"
+      "value": "5400506275"
     },
-    "reference": "https://api.service.nhs.uk/personal-demographics/FHIR/R4/Patient/5815309540"
+    "reference": "https://api.service.nhs.uk/personal-demographics/FHIR/R4/Patient/5400506275"
   },
   "active": true,
   "period": {
@@ -19,8 +19,8 @@
       "coding": [
         {
           "system": "https://fhir.nhs.uk/R4/CodeSystem/UKCore-AdditionalRelatedPersonRole",
-          "code": "CHILD",
-          "display": "Child"
+          "code": "MOTHER",
+          "display": "Mother"
         }
       ]
     }
