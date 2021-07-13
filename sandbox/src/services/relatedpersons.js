@@ -8,7 +8,7 @@ module.exports = {
     "9000000017": {
         examplePersonDetailsResponse: JSON.parse(fs.readFileSync('mocks/Personal_Details_RelatedPerson.json'))
     },
-    "1111111111": {
+    "5400506275": {
         examplePersonDetailsResponse: JSON.parse(fs.readFileSync('mocks/Baby_RelatedPerson.json'))
     }
 }
